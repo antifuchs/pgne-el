@@ -13,3 +13,10 @@ I've incrementally gotten this to "work" in nix-ts-mode, where it can
 insert balanced parens and `let`/`in` as well as `if`/`then else`
 pairs. I'm semi-convinced that it'll work in other modes too, but
 there are some still-glaring bugs and problems to iron out.
+
+## Why "pgne"?
+
+There is a californian utilities company that has a similar name,
+which is somewhat infamous for doing electricity to trees (causing
+forest fires), throwing the already-precipitous ecosystem there into a
+greater imbalance. It seemed fitting (and it's short).
